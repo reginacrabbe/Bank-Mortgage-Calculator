@@ -28,3 +28,6 @@ The project is implemented using Python programming language and jupyter noteboo
     *Calculates the monthly payment amount for a mortgage loan.
     *Takes into account the loan amount, interest rate, and loan duration.
     *Provides a clear understanding of the financial commitment involved in repaying the loan.
+
+# Author
+Regina Naa Dedei Crabbe
