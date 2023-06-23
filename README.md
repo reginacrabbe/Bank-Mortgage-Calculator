@@ -21,7 +21,7 @@ To use the mortgage calculator, follow these steps:
 
 # Technologies Used
 
-The project is implemented using Python programming language.
+The project is implemented using Python programming language and jupyter notebook.
 
 # Features
 
