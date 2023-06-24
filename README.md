@@ -1,4 +1,9 @@
-# Bank Mortgage Calculator
+# Project Title
+
+Bank Mortgage Calculator
+
+# Project Description
+
 The project is a mortgage calculator program for an entrepreneur who needs a loan to set up three factories. The mortgage calculator calculates the loan amount, interest rate, and loan duration to determine the monthly payment amount. 
 
 # Installation
